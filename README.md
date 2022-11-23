@@ -3,7 +3,7 @@ this is a jobwebsite i built with laravel
 
 ## How The Jobwebsite works
 * users can use the search on the website to search for tech jobs
-* user can register and after registration they can post tech gigs
+* users can register and after registration they can post tech gigs
 * users that did not register cannot post tech jobs 
 * registered users can also edit or delete the tech gig they listed on the website
 
